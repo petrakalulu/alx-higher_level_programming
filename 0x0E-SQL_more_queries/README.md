@@ -1,1 +1,1 @@
-SQL learning guide
+Solutions to SQL - More queries tasks
